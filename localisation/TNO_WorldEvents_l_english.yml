@@ -421,7 +421,7 @@
  WORLD.567.desc:0 "독일 주둔군의 후퇴 이후 세르비아를 지배해 온 전 부역자들과 파르티잔 사이에 가뜩이나 취약했던 연합이 피비린내 나는 내분으로 붕괴된 것 같습니다.\n\n대부분의 전문가들은 놀라운 일이 아니라고 보고 있습니다. 독일에 대항한다는 목적으로만 합쳐졌었던 이 연합은 먼지가 가라앉고 이전 분쟁의 피가 마르는 순간 파벌간의 분열로 진행되었습니다. 경제 정책에서 외교 정책에 이르기까지 타협의 여지가 빠르게 사라졌습니다.\n\n이제 세르비아의 미래를 결정할 제2단계 역시 지난번과 마찬가지로 피비린내 나는 일이 될 것으로 보입니다."
  WORLD.567.a:0 "발칸반도에 더 많은 혼란이 찾아오는군?"
 
- WORLD.568.t:0 "전러시아 의회가 결집하다!"
+ WORLD.568.t:0 "All-Russian Congress Unites!"
  WORLD.568.desc:0 "Accounts from Russia suggest that perhaps the most unlikely development in world history has occurred. Amazingly, the menagerie of warlords vying for power across the remains of Russia have set aside their blood feuds and banded together in what is surely the most incredible and ideologically diverse coalition in the history of mankind.\n\nThe newly emerging 'All-Russian Congress', created in response to an impending German invasion of Russia, occupies practically the entire gamut of human belief-communists, fascists, liberals and maniacs of all kinds, temporarily working together to weather the impending Nazi onslaught. Hateful of half their comrades and equipped mainly with sheer human determination, it remains to be seen whether the Congress will succeed where the Soviet Union failed."
  WORLD.568.a:0 "Standing side-by-side with demons to face the Devil."
 
@@ -493,8 +493,8 @@
  WORLD.603.desc:0 "오늘 독일의 프랑크푸르트시가 새로 건설된 원자력 발전소 내부에서 일어난 것으로 추정되는 대형 폭발로 크게 흔들렸습니다. AP통신은 독일국 내 특종 소식을 인용하여 원자력 발전소의 4번 원자로가 멜트다운되고 폭발한 것으로 보인다고 보도하고 있습니다.\n\n프랑크푸르트 남부 지역에 심각한 피해가 일어났으며 바람이 48시간 내에 어떻게 바뀌느냐에 따라 방사능 구름이 부르군트, 프랑스, 스위스 일부 지역에 떠다닐 것으로 예상됩니다. 이 사건으로 사망한 사람의 수는 수천명에 달하며, 수백만명이 도시에서 강제로 피난을 가고 있다고 합니다. 독일국은 사건을 부인하고 있으며 발전소 파괴는 '반독일 반군'의 소행이라고 주장하고 있습니다."
  WORLD.603.a:0 "그럼 날씨를 알려 드리겠습니다. 지미, 우리 망한거야?"
 
- WORLD.604.t:0 "쇠르너 야전원수가 쿠데타를 일으키다"
- WORLD.604.desc:0 "괴링 전 총통의 지지자들에게 오늘은 게르마니아에서 가장 끔찍한 날입니다. 페르디난트 쇠르너 장군이 독일 정부의 지휘권과 더불어 결정적으로 독일 전쟁기계를 지배하였습니다. 강경한 군국주의자이자 "토탈레 크릭스비르차프트"(총력전 경제) 지지자인 쇠르너는 괴링이 이어갔던 최근 일련의 군사적 침공을 별 다른 검토 없이 그대로 이어나갈 것으로 보입니다. In the eyes of Germany's third Führer, Germany is at its apoapsis during a time of war, and thus war itself is no longer a means to an end, but an end in and of itself.\n\nWhile Göring met his political end due to his Wehrmacht becoming bogged down in an unsuccessful invasion, Schörner is confident that Germany will face no such failures under his rule. However, many, both German and foreign, are wondering what happens after Germany runs out of nations to invade."
+ WORLD.604.t:0 "Generalfeldmarschall Schörner Coups the German Government"
+ WORLD.604.desc:0 "A disastrous day in Germania for supporters of the late Führer Göring-- Generalfeldmarschall Ferdinand Schörner has taken command of the German state, and crucially, the German war machine. A hardline militarist and proponent of the "Totale Kriegswirtschaft", or "Total War Economy", Schörner is expected to continue Göring's recent string of military invasions with even less scrutiny. In the eyes of Germany's third Führer, Germany is at its apoapsis during a time of war, and thus war itself is no longer a means to an end, but an end in and of itself.\n\nWhile Göring met his political end due to his Wehrmacht becoming bogged down in an unsuccessful invasion, Schörner is confident that Germany will face no such failures under his rule. However, many, both German and foreign, are wondering what happens after Germany runs out of nations to invade."
  WORLD.604.a:0 "The world watches in fear..."
 
  WORLD.605.t:0 "남아프리카에서 화학무기가 사용되다!"
@@ -517,7 +517,7 @@
  WORLD.651.a:0 "드디어 페르시아의 화약고가 터지네."
 
  WORLD.652.t:0 "이란 혁명 동맹이 무너지다"
- WORLD.652.d:0 "이란 혁명 동맹이 압도적인 내부 압력의 여파로 결국 붕괴되었습니다. 이번 2차 갈등의 구체적인 불씨는 알려지지 않았지만 모든 당사국들이 외국에 지우너을 요청하였습니다. 많은 혁명운동은 이념에 근거해 대략적으로 특징지을 수 있지만 모든 합의는 저절로 이뤄지고 있습니다.\n\n전차와 총격전 사진들이 신문을 도배하고 있으며 민간인들이 해안가를 향해 쏟아져 도망치는 모습의 영상이 찍혀나옵니다.\n\n사회주의 혁명가들은 서부 산악지대를 근거로 한 세력으로 인근 국가에서 강력한 지지를 끌어 온 급진 이슬람 세력을 겨냥하고 있씁니다. 이상주의자들은 남쪽에서 질서 비슷한 것을 간신히 확립했지만 중앙 지역의 이란 샤국을 향해 공세를 펼치기 위해 고분고투하면서 끊임없는 탈영 행렬을 겪고 있습니다. 군주정 지지자들은 고립된 포위망을 고집하며 그들이 사랑하는 페르시아의 새벽을 볼 수 있다는 희망에 매달리며 살고 있습니다.\n"
+ WORLD.652.d:0 "이란 혁명 동맹이 압도적인 내부 압력의 여파로 결국 붕괴되었습니다. 이번 2차 갈등의 구체적인 불씨는 알려지지 않았지만 모든 당사국들이 외국에 지원을 요청하였습니다. 많은 혁명운동은 이념에 근거해 대략적으로 특징지을 수 있지만 모든 합의는 저절로 이뤄지고 있습니다.\n\n전차와 총격전 사진들이 신문을 도배하고 있으며 민간인들이 해안가를 향해 쏟아져 도망치는 모습의 영상이 찍혀나옵니다.\n\n사회주의 혁명가들은 서부 산악지대를 근거로 한 세력으로 인근 국가에서 강력한 지지를 끌어 온 급진 이슬람 세력을 겨냥하고 있씁니다. 이상주의자들은 남쪽에서 질서 비슷한 것을 간신히 확립했지만 중앙 지역의 이란 샤국을 향해 공세를 펼치기 위해 고분고투하면서 끊임없는 탈영 행렬을 겪고 있습니다. 군주정 지지자들은 고립된 포위망을 고집하며 그들이 사랑하는 페르시아의 새벽을 볼 수 있다는 희망에 매달리며 살고 있습니다.\n"
  WORLD.652.a:0 "심연으로 더 깊이."
 
  WORLD.653.t:0 "제2차 남아프리카 내전"
@@ -860,7 +860,7 @@
  WORLD.909.b:0 "Oriana will keep the Turks at bay!"
 
  WORLD.910.t:0 "마테이가 걸프 통제권을 쥐다"
- WORLD.910.d:0 "이탈리아-터키 전쟁에서 이탈리아가 승리하면서 근동 지역에서 이탈리아 제국의 지배력이 한층 강화되었습니다. With Turkey's expansionist dreams quashed, Italy has reaffirmed herself as the hegemonic power in the Arab world: in the wake of the victory, Enrico Mattei, chairman of ENI - Italy's own oil company, and the largest in the world - has been appointed governor of the Italian territories in the Persian Gulf.\n\nMattei's nomination further strengthens the hold that ENI has over the Persian Gulf. The company was instrumental in developing the region's infrastructure and oil industry, and has a long history of productive collaboration with the ruling classes of the Arab world: ENI is the keystone of the Italian domination of the Middle East, and with Mattei in charge, both Italy and the company will be able to expand their influence - and their revenues."
+ WORLD.910.d:0 "The Italian victory in the Italo-Turkish War has reinforced the hold that the Italian Empire holds over the Near East. With Turkey's expansionist dreams quashed, Italy has reaffirmed herself as the hegemonic power in the Arab world: in the wake of the victory, Enrico Mattei, chairman of ENI - Italy's own oil company, and the largest in the world - has been appointed governor of the Italian territories in the Persian Gulf.\n\nMattei's nomination further strengthens the hold that ENI has over the Persian Gulf. The company was instrumental in developing the region's infrastructure and oil industry, and has a long history of productive collaboration with the ruling classes of the Arab world: ENI is the keystone of the Italian domination of the Middle East, and with Mattei in charge, both Italy and the company will be able to expand their influence - and their revenues."
  WORLD.910.a:0 "석유는 제국의 생명선이다."
 
  WORLD.911.t:0 "이집트 헌법위원회"
@@ -933,7 +933,7 @@
  WORLD.923.b:0 "우리 지도를 따르는게 더 나았어."
 
  WORLD.924.t:0 "레반트의 공산주의 혁명!"
- WORLD.924.d:0 "이탈리아가 레반트 지역을 안정적으로 유지시키지 못하고 붕괴되는 대재앙이 펼쳐진 후 레반트에서 이탈리아의 영향력은 완전히 사라졌으며 이탈리아군은 현지 반군에게 큰 손실을 입고 후퇴해야만 했습니다. 이어진 권력 공백 상황에서 주르지 하바시가 이끄는 Harakiyyin이 레반트 지역을 장악한 후 팔레스타인 민주공화국의 수립을 발표하였습니다.\n\n몇몇 공산주의, 사회주의, 그 외 좌익운동이 연합한 운동인 Harakiyyin은 이탈리아의 제국주의에 격렬하게 반발하는 아랍인들 사이에서 큰 지지를 받고 있습니다. 하지만 운동을 구성하는 수많은 게릴라와 무장 단체, 조직 간 단합이 거의 없으며 유대인 다수 지역에서는 공산주의 정부에 대한 시오니즘적 반대가 불붙기 시작했기 때문에 이제야 첫 발을 내딯은 민주공화국은 불안한 모습을 보여주고 있습니다.\n"
+ WORLD.924.d:0 "이탈리아가 레반트 지역을 안정적으로 유지시키지 못하고 붕괴되는 대재앙이 펼쳐진 후 레반트에서 이탈리아의 영향력은 완전히 사라졌으며 이탈리아군은 현지 반군에게 큰 손실을 입고 후퇴해야만 했습니다. 이어진 권력 공백 상황에서 주르지 하바시가 이끄는 하라킨이 레반트 지역을 장악한 후 팔레스타인 민주공화국의 수립을 발표하였습니다.\n\n몇몇 공산주의, 사회주의, 그 외 좌익운동이 연합한 운동인 하라킨은 이탈리아의 제국주의에 격렬하게 반발하는 아랍인들 사이에서 큰 지지를 받고 있습니다. 하지만 운동을 구성하는 수많은 게릴라와 무장 단체, 조직 간 단합이 거의 없으며 유대인 다수 지역에서는 공산주의 정부에 대한 시오니즘적 반대가 불붙기 시작했기 때문에 이제야 첫 발을 내딯은 민주공화국은 불안한 모습을 보여주고 있습니다.\n"
  WORLD.924.a:0 "성지에 일어난 혁명?"
  WORLD.924.b:0 "제국이 무너진다!"
 
@@ -2186,7 +2186,7 @@ WORLD.18017.t:0 "이라크의 민주주의가 부활하다!"
 WORLD.18017.d:0 "News today emerged from Baghdad where, after months of intense fighting, Abd al-Rahman al-Bazzaz and his constitutionalists emerged victorious from the Iraqi Civil War. A lawyer, writer, and intellectual, al-Bazzaz's success represents a shocking outcome in a country long-defined by a revolving door of autocrats and military leaders.\n\nStanding in front of the damaged remains of the Republican Palace, al-Bazzaz vowed to restart Iraq's long-stalled progress toward a democratic government. He also sought to allay the concerns of Iraq's various minorities who remain fearful of al-Bazzaz's vocal pan-Arab ideals by promising various protections.\n\nWhether al-Bazzaz can see these promises through remains to be seen. Already, there are rumors of tensions and intense disagreements within his coalition.\n\n"
 WORLD.18017.a:0 "A republic, if you can keep it."
 
-WORLD.18018.t:0 "이라크에서 바트주의자들이 권력을 잡다!"
+WORLD.18018.t:0 "이라크에서 바트주의자들 권력을 잡다!"
 WORLD.18018.d:0 "In an announcement earlier today, the new Iraqi president Ahmed Hassan al-Bakr has declared Ba'athist victory in the country's gruelling civil war. Iraq has harboured one of the largest and most influential branches of the Arab Socialist Ba'ath Party, remaining a persistent holdout of Arab nationalist thought for the past two decades. After brazenly declaring its utmost dedication to the anti-colonial struggle, al-Bakr's regime is likely to pursue a hard line against Italian influence in the region, hoping to act as a \"bastion of Arab nationalism against the tide of colonial oppression.\"\nSpectators in Iraq and abroad have noted numerous violations and authoritarian stances that the Ba'athist party assumed in its struggle towards power under al-Bakr and his nephew, Saddam Hussein; few minority leaders have high hopes for national autonomy within the now decidedly Arab state. Nonetheless, the Ba'athists continue to preach ideals of Liberty and Socialism: only time will tell if they will ever be truly realized.\n"
 WORLD.18018.a:0 "재앙이군!"
 WORLD.18018.b:0 "바트주의 만세!"
@@ -2245,11 +2245,11 @@ WORLD.18027.d:0 "이탈리아 제국은 테우타 작전으로, 이탈리아 병
 WORLD.18027.a:0 "크로아티아에 겨울이 왔다."
 WORLD.18027.b:0 "뒷마당을 접수했다."
 
-WORLD.18028.t:0 "오만에서 술탄이 승리하다"
-WORLD.18028.d:0 "The guns fall silent in southeastern Arabia today, as Qaboos bin Said, Sultan of Muscat, has declared total victory in his war for Muscat and Oman. As the son of the previous Sultan, his high popularity in the heavily populated coastal cities of Muscat, coupled with aid from foreign powers, enabled him to overwhelm the outnumbered rebels in Oman and Dhofar, and begin implementing his ambitious modernizing agenda. Already, he has abolished the twelve century old Imamate of Oman, decreed the abolition of slavery, and begun the process of reorganizing and centralizing the government. Analysts believe he will attempt to use the country's vast oil reserves as a bargaining chip to attract international investors and win favorable trade deals with foreign powers, with potentially highly significant implications both for Oman itself, and for the Middle East as a whole."
-WORLD.18028.a:0 "Sanity and good governance have prevailed in Oman."
-WORLD.18028.b:0 "The imperialist yoke remains on the Omani people."
-WORLD.18028.c:0 "A positive change for the country."
+WORLD.18028.t:0 "오만의 승리"
+WORLD.18028.d:0 ""
+WORLD.18028.a:0 ""
+WORLD.18028.b:0 ""
+WORLD.18028.c:0 ""
 
  ### African Mandates Events
 
@@ -2323,11 +2323,11 @@ WORLD.19004.t:0 "Election of Seni Pramoj"
 WORLD.19004.d:0 "With the result duly called by the electoral commission in Bangkok, Seni Pramoj claims a victory in the National Assembly and thus has won the seat of the presidency. A descendant of the Chakri Dynasty, and member of the once-disgraced Seri Thai movement in exile, Seni's ascendancy was unexpected even by those paying close attention to Thailand's first free election.\n\nSuch a radical departure from establishment politics in Bangkok prompts the world to sit and await not only the presidency of Seni Pramoj, but the very health and fate of the newfound Thai democracy under his leadership. What is certain, however, is that this rising democrat's administration is to forever shape the future of the young republic, and the future of those living within it."
 WORLD.19004.a:0 "We dream of our own Thailand."
 
-WORLD.19005.t:0 "태국의 군사 쿠데타"
+WORLD.19005.t:0 "Military Coup in Thailand"
 WORLD.19005.d:0 "With the situation spiraling in the fallout of Grand Marshal Phibunsongkhram's death, General Thanom Kittikachorn has launched a coup to seize power for himself in the chaos. Having established his presence within the military bureaucracy decades prior, a rush of armed detachments sprung to storm Bangkok's halls of power, and the General was sworn in as the new president of the republic.\n\nAmong his first actions are calls for loyalty and patriotic fervor; thousands of troops march in the cities of the young republic, saluting the President Thanom as he watches over the nation with scheming eyes. However, as Thailand still licks her wounds, the world watches on as a new tyrant is born west of the Mekong."
 WORLD.19005.a:0 "More of the same, it would seem."
 
-WORLD.19006.t:0 "태국의 장교 쿠데타"
+WORLD.19006.t:0 "Officers Coup in Thailand"
 WORLD.19006.d:0 "The fires of outrage burn in Thailand as citizen demonstrations pack the streets of major cities of the young republic; they protest the cost of General Thanom's saber-rattling on living conditions and domestic security. That was until the challenged military presence had opened fire upon the crowds, cutting down hundreds in brutal mayhem - an action likely authorized by the president himself.\n\nThe resulting bloodshed in the streets of Bangkok had compelled a group of mutinying officers to refuse commands, instead turning their guns to challenge higher command and the presidency. Observers report this disorganized chaos as a second coup in Thailand, yet no one can be sure of what may come of this armed struggle for power."
 WORLD.19006.a:0 "Why must death come first?"
 
@@ -2335,18 +2335,18 @@ WORLD.19007.t:0 "Attempted Officers Coup in Thailand"
 WORLD.19007.d:0 "The crowded streets of Bangkok were plunged into chaos today, as agitated military presence challenging the civilian protests had opened fire upon the masses of demonstrators; foreign observers comment that the action may have been authorized by the president himself.\n\nA band of mutinying officers, compelled by scenes of civilian massacre and government tyranny, had struggled to depose of the governing authorities and were instead gunned-down as traitors by officers loyal to the regime, their dreams of peace and freedom dying with them. With defiance now made a bloody example of, General Thanom is likely to rule unabated as his reign of terror continues to scourge the young republic."
 WORLD.19007.a:0 "The drums beat heavy."
 
-WORLD.19008.t:0 "태국의 군사 쿠데타"
+WORLD.19008.t:0 "Military Coup in Thailand"
 WORLD.19008.d:0 "In the chaos following Grand Marshal Phibunsongkhram's death, Chatichai Choonhavan has mobilized his forces in a quick seizure of power to claim the presidency for himself. With loyalties established across the civilian administration and military bureaucracies, the new president's men have a firm grip over the rapidly stabilizing situation.\n\nPresident Chatichai's public appearances offer assurances of affluence and prosperity to the public, insisting that security and wealth will return under his leadership. However, his sweet promises are underscored by a shadowy rise in secret-police presence across the country, and observers are yet to be sure of the future of Thailand's domestic security."
 WORLD.19008.a:0 "Changeless change."
 
  # Japan New News Events
- WORLD.20000.t:0 "일본의 궁정 쿠데타!"
+ WORLD.20000.t:0 "Palace Coup in Japan!"
  WORLD.20000.d:0 "Shocking news from the Tokyo Imperial Palace today: Amid governmental chaos and dysfunction, it appears that the Prince Higashikuni, a prominent senior statesman or Jushin, and Lord Privy Seal Kido have ordered the Yokusankai-dominated cabinet to step down and let members of the Royal Family and Imperial loyalists take their place. While official news from Japan has been scant as of late, what few sources are available state that officials are 'greatly concerned about potential conspiracies within the Government'.\n\nNow, the government seems certain to collapse and be replaced with one of Kido and Higashikuni's choosing. The plans of the new rulers of Japan are not yet known. But the fear is that the Japanese Diet will be sidelined completely, and a period of rule by decree will begin. If this is true, then it seems that Japan is backsliding into dictatorship once more."
  WORLD.20000.a:0 "Perhaps this time, forever."
 
- WORLD.20001.t:0 "일본의 군사 쿠데타!"
- WORLD.20001.d:0 "오늘 아침 도쿄에서는 민정 내각 구성원 전원이 예고 없이 집단 사퇴했다는 놀라운 소식이 전해졌습니다. 뒤이어 대일본제국육군 장군인 무토 아키라가 총리로 임명되었습니다. 총리 취임 직후 무토 총리는 육군에게 일본과 수도의 질서를 회복하라는 명령을 내렸습니다.\n\n이 모든 일은 이전 정부의 군대에 대한 수사에서 비롯된 것으로 보이며, 무토는 이를 당장 끝내야 하는 "비합리적이고 미친 마녀 사냥"으로 변질되었다고 비난했습니다. 이제 계엄령이 발효되었습니다. 수쳔 명이 체포되었고, 수백 명이 헌병대의 총격을 받았다는 보도가 나오는 가운데 외신기자들은 전부 가택연금에 처해졌습니다. 무토는 전 세계의 비난에 별 신경을 쓰지 않는 것으로 보이며, 이미 모든 "혼돈의 조짐들"을 분쇄할 움직임을 보이고 있습니다. 지난 24시간동안 도쿄에서 들을 수 있었던 소리들은 전부 다음뿐이었습니다."
- WORLD.20001.a:0 "총소리와 사이렌, 그리고는... 정숙이죠."
+ WORLD.20001.t:0 "Military Coup in Japan!"
+ WORLD.20001.d:0 "Alarming news out of Tokyo earlier today as the civilian government has, without warning, resigned en masse. This was soon followed by General Muto Akira of the IJA being appointed Prime Minister. Almost immediately after his appointment, he ordered the Army to restore order throughout Japan and its capital.\n\nThis all apparently stemmed from the previous government's investigation into the armed forces, which according to Muto turned into a "treasonous and insane witch hunt" that had to be ended. Martial law has now gone into effect. Thousands have been reported arrested and hundreds reportedly shot by military police while foreign correspondents have been forced under house arrest. Muto seems to care little about global condemnation, and is already moving to crush all "harbingers of chaos". As such, all that could be heard from Tokyo for the last 24 hours were:"
+ WORLD.20001.a:0 "Gunshots, sirens, and soon... order."
  
  
  ### Britain Events
